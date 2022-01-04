@@ -1,0 +1,9 @@
+{
+  "specifier": "https://cdn.esm.sh/v53/react@17.0.2/deno/react.development.js",
+  "deps": [
+    {
+      "specifier": "https://cdn.esm.sh/v53/object-assign@4.1.1/deno/object-assign.development.js"
+    }
+  ],
+  "sourceHash": "0103ff91776060da46493381807e9558b0f35a92"
+}

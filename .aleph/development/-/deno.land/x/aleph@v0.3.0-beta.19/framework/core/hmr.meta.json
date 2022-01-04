@@ -1,0 +1,9 @@
+{
+  "specifier": "https://deno.land/x/aleph@v0.3.0-beta.19/framework/core/hmr.ts",
+  "deps": [
+    {
+      "specifier": "https://deno.land/x/aleph@v0.3.0-beta.19/framework/core/events.ts"
+    }
+  ],
+  "sourceHash": "f2cde95e1acd9dcaf3f29128f51b7e9f9deb090d"
+}

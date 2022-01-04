@@ -1,0 +1,3 @@
+language="deno"
+#run="deno run --allow-net --allow-read --import-map=import_map.json app.tsx"
+run="deno run --allow-net --allow-read --unstable --import-map=import_map.json -A https://deno.land/x/aleph@v0.3.0-beta.19/cli.ts dev"
