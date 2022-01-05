@@ -1,9 +1,0 @@
-{
-  "specifier": "https://cdn.skypack.dev/react",
-  "deps": [
-    {
-      "specifier": "https://cdn.skypack.dev/-/react@v17.0.1-yH0aYV1FOvoIPeKBbHxg/dist=es2019,mode=imports/optimized/react.js"
-    }
-  ],
-  "sourceHash": "c7add590cba8cf77eb696811f0984aaf72f91586"
-}
